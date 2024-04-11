@@ -54,10 +54,10 @@ Performing Nmap scan on the client for open ports on the server:  <br/>
 <br />
 <br />
 Opening a new service port; Showing that Wizbang traffic is allowed:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cT6imRM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Final Nmap Scan:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/b2I12QB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
