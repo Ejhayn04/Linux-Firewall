@@ -48,7 +48,7 @@ Captured Packets on Wireshark (wget): <br/>
 <br />
 <br />
 Captured Packets on Wireshark (ssh):  <br/>
-<img src="https://imgur.com/lk4snWP" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lk4snWP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Captured Packets on Wireshark (telnet):  <br/>
