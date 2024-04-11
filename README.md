@@ -37,7 +37,7 @@ Captured Packets on Wireshark (telnet):  <br/>
 <br />
 <br />
 Using iptables to limit traffic to the server:  <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nM3ux0U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
